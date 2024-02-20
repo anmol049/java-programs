@@ -1,0 +1,26 @@
+.containor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    /* height: 500px;
+    width: 500px; */
+    /* background-color: aqua; */
+    /* margin-inline: auto; */
+    /* border: 2px solid red; */
+}
+.box{
+    border: 2px solid blue;
+    padding: 80px;
+}
+.containor-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+}
+#possitive-button , #negative-button{
+    padding: 30px;
+}
+

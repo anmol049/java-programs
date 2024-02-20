@@ -1,0 +1,16 @@
+.containor{
+    /* display: flex; */
+    /* flex-direction: column; */
+    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    align-items: center;
+    border: 2px solid red;
+}
+.profile-card{
+    text-align: center;
+    border: 2px dotted black;
+    padding: 30px;
+    /* display: inline-block; */
+    /* display: none; */
+}
